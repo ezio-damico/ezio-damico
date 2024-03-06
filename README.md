@@ -14,7 +14,7 @@ Here are some recent projects I've worked on:
 1. [JEIOM23 Website](https://www.jeiom23.it/) - JEIOM23 is a networking event we organized in Modena with over 250 partecipants and over 15 partners
 2. [JEIOM23 application form](https://jeiom23-application-form.pages.dev/) - JEIOM23 is a networking event we organized in Modena with over 250 partecipants and over 15 partners
 
-Feel free to explore more in my [repositories](link-to-repositories)!
+Feel free to explore more in my [repositories](https://github.com/ezio-damico?tab=repositories)!
 
 ## Get in Touch
 
