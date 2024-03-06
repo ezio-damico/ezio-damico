@@ -5,33 +5,21 @@ Hey there! 👋 I'm Ezio, a computer engineering student with a particular inter
 ## About Me
 - 🏡 Based in Modena at [Collegio San Carlo](https://www.fondazionesancarlo.it/collegio/)
 - 🌱 Student at [UNIMORE University](https://www.unimore.it/)
-- 🚀 Part of Italian Junior Enterprises Network
-
-## My Goals
-
-I aspire to [specific career or project goals] and continually expand my knowledge in [technologies or fields of interest].
-
-## Skills
-
-- **Languages:** [List of programming languages]
-- **Web Technologies:** [List of web technologies]
-- **Tools and Frameworks:** [List of tools and frameworks]
+- 🚀 Part of the Italian Junior Enterprises Network
 
 ## Featured Projects
 
 Here are some projects I've worked on:
 
-1. [Project Name](link-to-repository) - Brief description.
-2. [Project Name](link-to-repository) - Brief description.
-3. [Project Name](link-to-repository) - Brief description.
+1. [JEIOM23 Website](https://www.jeiom23.it/) - JEIOM23 is a networking event we organized in Modena with +250 partecipants and +15 partners
+2. [JEIOM23 application form](https://jeiom23-application-form.pages.dev/) - JEIOM23 is a networking event we organized in Modena with over 250 partecipants and over 15 partners
 
 Feel free to explore more in my [repositories](link-to-repositories)!
 
 ## Get in Touch
 
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- 🐦 Twitter: [@YourTwitterHandle](link-to-twitter)
+- 📧 Email: [ezio.damico@live.it]
+- 🔗 LinkedIn: [eziodamico](https://www.linkedin.com/in/eziodamico/)
 
 Let's connect and collaborate on exciting projects! 🚀
 
