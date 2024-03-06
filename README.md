@@ -5,7 +5,7 @@ Hey there! 👋 I'm Ezio, a computer engineering student with a particular inter
 ## About Me
 - 🏡 Based in Modena at [Collegio San Carlo](https://www.fondazionesancarlo.it/collegio/)
 - 🌱 Student at [UNIMORE University](https://www.unimore.it/)
-- 🚀 Part of the Italian Junior Enterprises Network
+- 🚀 Part of the Italian Network of the Junior Enterprises
 
 ## Featured Projects
 
