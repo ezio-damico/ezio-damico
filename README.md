@@ -24,12 +24,6 @@ Feel free to explore more in my [repositories](link-to-repositories)!
 Let's connect and collaborate on exciting projects! 🚀
 
 
-
-
-
-
-### Hi there 👋
-
 <!--
 **ezio-damico/ezio-damico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
