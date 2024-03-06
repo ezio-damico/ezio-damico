@@ -9,7 +9,7 @@ Hey there! 👋 I'm Ezio, a Computer Engineering student with a particular inter
 
 ## Featured Projects
 
-Here are some projects I've worked on:
+Here are some recent projects I've worked on:
 
 1. [JEIOM23 Website](https://www.jeiom23.it/) - JEIOM23 is a networking event we organized in Modena with +250 partecipants and +15 partners
 2. [JEIOM23 application form](https://jeiom23-application-form.pages.dev/) - JEIOM23 is a networking event we organized in Modena with over 250 partecipants and over 15 partners
