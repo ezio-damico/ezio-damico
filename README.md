@@ -18,10 +18,8 @@ Feel free to explore more in my [repositories](link-to-repositories)!
 
 ## Get in Touch
 
-- 📧 Email: [ezio.damico@live.it]
 - 🔗 LinkedIn: [eziodamico](https://www.linkedin.com/in/eziodamico/)
 
-Let's connect and collaborate on exciting projects! 🚀
 
 
 <!--
