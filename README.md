@@ -1,12 +1,13 @@
 # Ezio D'Amico
 
-Hey there! 👋 I'm Ezio, a Computer Engineering student with a particular interest in IoT. Welcome to my GitHub profile!
+Hey there! 👋 I'm Ezio, a Computer Engineering student. Welcome to my GitHub profile!
 
+<!--
 ## About Me
 - 🏡 Based in Modena at [Collegio San Carlo](https://www.fondazionesancarlo.it/collegio/)
 - 🌱 Student at [UNIMORE University](https://www.unimore.it/)
 - 🚀 Part of the Italian Network of the Junior Enterprises
-
+-->
 <!--## Featured Projects
 
 Here are some recent projects I've worked on:
